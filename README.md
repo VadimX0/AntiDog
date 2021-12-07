@@ -2,6 +2,9 @@
 
 Flutter project
 
+## Code
+..\lib
+
 ## To run app correctly
 
 You need the Android Emulator
